@@ -1,0 +1,110 @@
+body {
+	background-color: white;
+	font-size: 15px;
+	
+}
+
+h1, h2, h3, h4, h5, p {	
+	font-family: "Poppins", serif;
+}
+
+p {
+	color: darkgray;
+}
+
+.topper	{
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-left: 50px;
+	text-align: center;
+
+}
+
+.einde	{
+	text-align: center;
+}
+
+
+div {
+	background-color: transparent;
+	margin: 25px;
+	float: left;
+	border-radius: 7px;
+	
+	position: relative;
+	margin: 7 auto;
+	
+}
+
+.afb	{
+	position: relative;
+	left: 190px;
+	
+	
+}
+
+.blok1 {
+	background-color: white;
+	color: black;
+	padding: 30px;
+	border-top: 5px solid hsl(180, 62%, 55%);
+	width: 260px;
+	align-content: left;
+	box-shadow: 10px 5px 10px 7px #d3d3d3;
+	z-index: 1;
+	
+}
+
+.blok1:hover {
+	transform: scale(1.03);
+	transition: all .3s ease-in-out;
+}
+
+.blok2:hover {
+	transform: scale(1.03);
+	transition: all .3s ease-in-out;
+}
+
+.blok3:hover {
+	transform: scale(1.03);
+	transition: all .3s ease-in-out;
+}
+
+.blok4:hover {
+	transform: scale(1.03);
+	transition: all .3s ease-in-out;
+}
+
+.blok2 {
+	background-color: white;
+	color: black;
+	padding: 30px;
+	border-top: 5px solid hsl(0, 78%, 62%);
+	width: 260px;
+	align-content: left;
+	box-shadow: 10px 5px 10px 7px #d3d3d3;
+	z-index: 2;
+	
+}
+
+.blok3 { 
+	background-color: white;
+	color: black;
+	padding: 30px;
+	border-top: 5px solid hsl(34, 97%, 64%);
+	width: 260px;
+	align-content: left;
+	box-shadow: 10px 5px 10px 7px #d3d3d3;
+
+ }
+
+ .blok4	{
+ 	background-color: white;
+ 	color: black;
+ 	padding: 30px;
+ 	border-top: 5px solid hsl(212, 86%, 64%);
+ 	width: 260px;
+	align-content: left;
+	box-shadow: 10px 5px 10px 7px #d3d3d3;
+ 	
+ }
